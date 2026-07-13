@@ -1,1 +1,5 @@
-# gishm
+# GISHM model
+The GiSHM has been developed using IronPython package and calling the MapCalculate library (for facilitation of map and spatial processing) from C# environment. To make the model user-friendly, the model's GUI was designed. Model inputs and outputs include raster maps (.asc) and time series data (.tbl). to evaluate the model performance during calibration and validation periods, criteria such as Nash-Sutcliffe coefficient (NS), bias or model deviation, Kling-Gupta (KGE) and revised Kling-Gupta (rKGE) efficiency, coefficient of determination (R2) and weighted correlation coefficient (bR2) were applied.
+The developed model simulates snowmelt, surface runoff and infiltration, potential and actual infiltration and baseflow processes and routes the surface runoff from isochrones to the watershed outlet using the time-distance method.
+#Usage
+run the GISHM.exe and set the working directory to the SampleData/Inputs. The program will automatically find maps and time series. you can manually change them if you want. Go to the Parameter/Simulation tab and hit run. the results will be shown in Result/Display tab.
