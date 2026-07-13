@@ -1,0 +1,19 @@
+code	LUS	CN A	CN B	CN C	CN D	VEG_AREA	LAI_ave	LAI_max
+1	Streets and roads	98	98	98	98	0.4	1	2
+2	Industrial	81	88	91	93	0.3	1	2
+3	Residential area (65% impervious area)	77	85	90	92	0.2	0.4	2
+4	Residential area (20% impervious area)	51	68	79	84	0.3	1	2
+5	Bare Lands	77	86	91	94	0.05	0.2	2
+6	Irrigated Agriculture	59	74	82	85	0.8	0.7	2
+7	Rainfed Agriculture	73	83	88	92	0.7	0.7	2
+8	"Pasture, grassland or rangeland (Poor)"	68	79	86	89	0.5	1	2
+9	"Pasture, grassland or rangeland (Fair)"	49	69	79	84	0.6	0.2	2
+10	"Pasture, grassland or rangeland (Good)"	39	61	74	80	0.7	1	2
+11	Wood-grass combination (orchard or tree farm) (Poor)	57	73	82	86	0.7	1	2
+12	Wood-grass combination (orchard or tree farm) (Fair)	43	65	76	82	0.8	0.6	2
+13	Wood-grass combination (orchard or tree farm) (Good)	32	58	72	79	0.9	1	2
+14	Forest land  (Poor)  	45	66	77	83	0.8	1	2
+15	Forest land  (Fair)	36	60	73	79	0.9	1.4	2
+16	Forest land  (Good)	30	55	70	77	1	1	2
+17	Salty land	63	77	85	88	0	1	2
+18	Water body	100	100	100	100	0	0.8	2
