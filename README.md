@@ -23,6 +23,6 @@ The ‘Sample Data’ folder contains the exact spatial grids (90m resolution) a
 Inputs: ‘maps’ subfolder (DEM, Soil, Land-use, Isochrone) and ‘timeseries’ subfolder (Precipitation, Temperature, Observed Streamflow).
 Outputs: The model will output simulated surface runoff, baseflow, actual evapotranspiration, and total streamflow in the ‘Outputs’ directory as .tbl files.
 ## 4. User Guide & Documentation
-For a detailed explanation of the input data formats, empirical Tc equations, and model parameters, please refer to the ‘[Insert name of PDF manual]’ included in this repository. 
+For a detailed explanation of the input data formats, empirical Tc equations, and model parameters, please refer to the ‘Model Tutorial.pdf’ included in this repository. 
 ## License
 This project is licensed under the Apache 2.0 License - see the [LICENSE] file for details.
